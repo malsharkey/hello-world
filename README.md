@@ -1,3 +1,3 @@
 # hello-world
 
-This is a new GitHub account.
+This is a not a new GitHub account anymore.
